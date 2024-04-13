@@ -15,7 +15,7 @@ Project_1 - main project folders
 
       Rgb_to_yvbcr.v ----- color space conversion 
 
-      Rgb444_to_rgb565.v ----- RGB format transformation 
+      Rgb444_to_rgb565.v ----- RGB format converter
 
     Project_1.sdk - 
 
