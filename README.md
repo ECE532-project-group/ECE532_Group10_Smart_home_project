@@ -49,3 +49,5 @@ src  - all customer IP sources
     Debounce ---- contains VGA camera reset button IP source 
 
     Vga ---- contains VGA port design IP source 
+
+To fully get the files within the Final_project, it is suggested to push Final_Demo_version to local directory. 
