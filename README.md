@@ -5,7 +5,7 @@
 - Git LFS handles large files by storing references to the file in the repository, but not the actual file itself.
 - Please download the raw of certain file in the respository to view.
 # What's inside?
-Project named Final_Demo_ver contains the folders covering block design, IPs source and soft driver implementation, provide the key structure of project files below:
+Project named Final_Demo_version contains the folders covering block design, IPs source and soft driver implementation, provide the key structure of project files below:
 
 Project_1 - main project folders 
 
