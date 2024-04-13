@@ -1,6 +1,8 @@
-The files size is over 100MB which is classified as LFS.
-Git LFS handles large files by storing references to the file in the repository, but not the actual file itself.
-Please download the raw of certain file in the respository to view.
+ECE532 Group 10 Smart Home
+# Download
+- The files size is over 100MB which is classified as LFS.
+- Git LFS handles large files by storing references to the file in the repository, but not the actual file itself.
+- Please download the raw of certain file in the respository to view.
 
 Project named Final_Demo_ver contains the folders covering block design, IPs source and soft driver implementation, provide the key structure of project files below:
 
