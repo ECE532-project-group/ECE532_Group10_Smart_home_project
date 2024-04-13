@@ -1,4 +1,5 @@
-ECE532 Group 10 Smart Home
+# ECE532 Group 10 Smart Home
+- Group member: Yachen Li, Yao Sun, Yifan Wang
 # Download
 - The files size is over 100MB which is classified as LFS.
 - Git LFS handles large files by storing references to the file in the repository, but not the actual file itself.
